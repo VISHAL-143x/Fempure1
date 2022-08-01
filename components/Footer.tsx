@@ -7,7 +7,7 @@ export default function Footer() {
        rel='noopener noreferrer'
       >
         makes crypto payment experience fun at FemPure
-        <span>Qpay</span>
+
       </a>
     </footer>
   )
