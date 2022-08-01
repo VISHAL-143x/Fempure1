@@ -9,7 +9,7 @@ export default function HomePage() {
 
     return (
         <div className="flex flex-col gap-8 max-w-4xl items-stretch m-auto pt-24">
-      <SiteHeading>Chocolate Inc</SiteHeading>
+      <SiteHeading>FemPure</SiteHeading>
       {/* Adding Sola"na wallet connect button */}
       <div className="basis-1/4">
         <WalletMultiButton className='!bg-gray-900 hover:scale-105' />
