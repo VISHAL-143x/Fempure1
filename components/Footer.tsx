@@ -6,7 +6,7 @@ export default function Footer() {
        target="_blank"
        rel='noopener noreferrer'
       >
-        makes crypto payment experience fun at{" "}
+        makes crypto payment experience fun at FemPure
         <span>Qpay</span>
       </a>
     </footer>
