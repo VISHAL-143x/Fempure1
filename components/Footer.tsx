@@ -6,7 +6,7 @@ export default function Footer() {
        target="_blank"
        rel='noopener noreferrer'
       >
-        makes crypto payment experience fun at FemPure
+        makes crypto payment experience fun at Solana Pay
 
       </a>
     </footer>
